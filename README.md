@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeep13-coder&show_icons=true&locale=en" alt="rajdeep13-coder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep13-coder&" alt="rajdeep13-coder" /></p>
+
+[![An image of @rajdeep13coder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajdeep13coder)](https://holopin.io/@rajdeep13coder)
