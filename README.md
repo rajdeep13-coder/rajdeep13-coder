@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Paul</h1>
 <h3 align="center">I don't know that much of Development ngl ;)</h3>
-<img align="middle" alt="Coding" length="800" src="https://i.pinimg.com/originals/cc/e4/3d/cce43d74bc2d2e9acce0bfa3b08b048f.gif">
+<img align="middle" alt="Coding" length="800" src="https://wallpapercave.com/wp/wp3586956.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep13-coder&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep13-coder" /> </p>
 
