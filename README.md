@@ -8,7 +8,7 @@
 
 <img align="right" alt="coding" width="400" src="https://wallpaperaccess.com/full/8681362.jpg">
 
-- 🌱 I’m currently learning **NEXT JS and IOT**
+- 🌱 I’m currently learning **REACT and IOT**
 
 - 📫 How to reach me **rajdeeppaul427@gmail.com**
 
