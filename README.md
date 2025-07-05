@@ -2,7 +2,7 @@
 <h3 align="center">スカルナイト</h3>
 <img align="middle" alt="Coding" length="800" src="readme pic.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep13-coder&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep13-coder" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep13-coder&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep13-coder"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdeep13-coder" alt="rajdeep13-coder" /></a> </p>
 
