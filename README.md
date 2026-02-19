@@ -8,7 +8,7 @@
 
 <!-- <p align="center"><img src="https://your-repo.github.io/your-header-image.jpg" alt="Hardware Setup" width="600"/></p> -->
 
-<img align="right" alt="Embedded Hardware" width="400" src="https://wallpaperaccess.com/full/8681362.jpg">
+<!--<img align="right" alt="Embedded Hardware" width="400" src="https://wallpaperaccess.com/full/8681362.jpg">-->
 
 -  Currently working on embedded systems, IoT prototypes, microcontroller firmware, digital hardware design & custom PCBs
 -  **Currently learning Embedded Systems** — focusing on real-time constraints, low-power design, RTOS, hardware-software co-design + ML inference on edge devices
