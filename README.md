@@ -1,33 +1,73 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Paul</h1>
-<h3 align="center">スカルナイト</h3>
-<img align="middle" alt="Coding" length="800" src="readme pic.png">
+<h3 align="center">Electronics and Communication Undergrad</h3>
+<!--<h3 align="center">Embedded Hardware Engineer | FPGA | Microcontrollers | PCB Design | Electronics | ML on Edge</h3>-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep13-coder&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep13-coder"/> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajdeep13-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdeep13-coder" alt="rajdeep13-coder" /></a> </p>
+<!-- <p align="center"><img src="https://your-repo.github.io/your-header-image.jpg" alt="Hardware Setup" width="600"/></p> -->
 
-<img align="right" alt="coding" width="400" src="https://wallpaperaccess.com/full/8681362.jpg">
+<img align="right" alt="Embedded Hardware" width="400" src="https://wallpaperaccess.com/full/8681362.jpg">
 
-- 🌱 I’m currently learning **REACT and IOT**
-
-- 📫 How to reach me **rajdeeppaul427@gmail.com**
+-  Currently working on embedded systems, IoT prototypes, microcontroller firmware, digital hardware design & custom PCBs
+-  **Currently learning Embedded Systems** — focusing on real-time constraints, low-power design, RTOS, hardware-software co-design + ML inference on edge devices
+-  Looking to collaborate on open-source hardware, FPGA accelerators, IoT devices, PCB projects, or tiny ML models
+-  Ask me about Verilog/VHDL, ESP32/STM32 projects, PCB layout in KiCad, Arduino/ESP32 interfacing, FPGA timing closure, or PyTorch for embedded ML
+-  Reach me: **rajdeeppaul427@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rajdeep-paul-013z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajdeep-paul-013z" height="30" width="40" /></a>
-<a href="https://instagram.com/_rajdeep_013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rajdeep_013" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hazard_013" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hazard_013" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hazard_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hazard_13" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/hazard_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hazard_13" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rajdeep-paul-013z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/_rajdeep_013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="https://discord.com/users/hazard_013" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30" width="auto" /></a>
+  <a href="mailto:rajdeeppaul427@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h3 align="left">Hardware, Electronics & Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdeep13-coder&show_icons=true&locale=en&layout=compact" alt="rajdeep13-coder" /></p>
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,fastapi,c,cpp,python,flask,opencv,matlab,java,js,ts,react,pytorch" alt="Skills Icons" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeep13-coder&show_icons=true&locale=en" alt="rajdeep13-coder" /></p>
+<p align="left">
+  <!-- HDL + FPGA + Electronics + ML badges -->
+  <img src="https://img.shields.io/badge/Verilog-023047?style=for-the-badge&logoColor=white" alt="Verilog" />
+  <img src="https://img.shields.io/badge/VHDL-023047?style=for-the-badge&logoColor=white" alt="VHDL" />
+  <img src="https://img.shields.io/badge/FPGA-8D0801?style=for-the-badge&logoColor=white" alt="FPGA" />
+  <img src="https://img.shields.io/badge/ESP32-007ACC?style=for-the-badge&logo=arduino&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/STM32-004E98?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/KiCad-333333?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep13-coder&" alt="rajdeep13-coder" /></p>
+<p align="left">
+  <strong>Boards & Platforms:</strong> Arduino Uno · ESP32/ESP8266 · Raspberry Pi · STM32 (Nucleo) · Xilinx FPGA boards · etc.
+</p>
 
-[![An image of @rajdeep13coder's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajdeep13coder)](https://holopin.io/@rajdeep13coder)
+<p align="left">
+  <strong>Design & Simulation:</strong> PCB design/layout (KiCad), schematic capture, signal integrity basics, MATLAB for signal processing & control systems simulations
+</p>
+
+<p align="left">
+  <strong>Programming & Support:</strong> C/C++ (firmware & bare-metal), Python (automation, data analysis, scripting), PyTorch (machine learning models, especially edge/TinyML inference), Java (occasional tools), JavaScript/TypeScript + React (IoT web dashboards & monitoring interfaces)
+</p>
+
+<h3 align="center">GitHub Stats & Activity</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajdeep13-coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=10&card_width=450" alt="GitHub Stats" style="margin: 0 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep13-coder&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" style="margin: 0 10px;" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep13-coder&theme=tokyonight&hide_border=true&border_radius=10&date_format=M+j" alt="Contribution Streak" />
+</p>
+
+[![Holopin badges for @rajdeep13coder](https://holopin.me/rajdeep13coder)](https://holopin.io/@rajdeep13coder)
+
+---
+
+**⚡ Fun fact:** I'm a jacked nerd, and I love being one  
+Exploring the world where software meets silicon — from gates to GHz, bits to boards 🚀  
+Open to hardware collaborations, design reviews, or just talking oscilloscope hacks!
