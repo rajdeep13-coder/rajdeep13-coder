@@ -53,21 +53,8 @@
   <strong>Programming & Support:</strong> C/C++ (firmware & bare-metal), Python (automation, data analysis, scripting), PyTorch (machine learning models, especially edge/TinyML inference), Java (occasional tools), JavaScript/TypeScript + React (IoT web dashboards & monitoring interfaces)
 </p>
 
-<h3 align="center">GitHub Stats & Activity</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajdeep13-coder&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&border_radius=10&card_width=450" alt="GitHub Stats" style="margin: 0 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep13-coder&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" style="margin: 0 10px;" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep13-coder&theme=tokyonight&hide_border=true&border_radius=10&date_format=M+j" alt="Contribution Streak" />
-</p>
-
 [![Holopin badges for @rajdeep13coder](https://holopin.me/rajdeep13coder)](https://holopin.io/@rajdeep13coder)
 
 ---
 
-**⚡ Fun fact:** I'm a jacked nerd, and I love being one  
-Exploring the world where software meets silicon — from gates to GHz, bits to boards 🚀  
-Open to hardware collaborations, design reviews, or just talking oscilloscope hacks!
+**⚡ Fun fact:** I'm a jacked nerd. 
